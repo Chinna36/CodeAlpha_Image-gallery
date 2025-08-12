@@ -1,1 +1,1 @@
-# CodeAlpha_Task
+# CodeAlpha_Image-gallery
